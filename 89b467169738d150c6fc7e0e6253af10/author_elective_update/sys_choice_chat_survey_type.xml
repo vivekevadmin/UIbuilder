@@ -6,6 +6,7 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2023-01-25 16:01:44</sys_created_on>
+            <sys_id>9d6702a02f613010788b4f2e2c99b68a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>type</sys_name>
             <sys_package display_value="Fleet Vehicle Management" source="x_snc_flt_mgmt">89b467169738d150c6fc7e0e6253af10</sys_package>
@@ -29,6 +30,7 @@
             <sys_created_on>2023-01-25 16:01:44</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
+            <sys_id>04e088732f77f9102d94d8ddf699b615</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2023-01-25 16:01:44</sys_updated_on>
@@ -48,6 +50,7 @@
             <sys_created_on>2023-01-25 16:01:44</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
+            <sys_id>88e088732f77f9102d94d8ddf699b616</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2023-01-25 16:01:44</sys_updated_on>

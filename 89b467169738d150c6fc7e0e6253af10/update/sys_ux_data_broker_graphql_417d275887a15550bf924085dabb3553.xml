@@ -71,5 +71,4 @@
         <type>query</type>
         <use_record_domain>false</use_record_domain>
     </sys_ux_data_broker_graphql>
-    <sys_translated_text action="delete_multiple" query="documentkey=417d275887a15550bf924085dabb3553"/>
 </record_update>

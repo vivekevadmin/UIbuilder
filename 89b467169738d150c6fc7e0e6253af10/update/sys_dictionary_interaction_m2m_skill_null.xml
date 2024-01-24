@@ -47,11 +47,12 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-01-25 16:01:52</sys_created_on>
+        <sys_id>783d093c1c160010785061945362ad82</sys_id>
         <sys_name>interaction_m2m_skill</sys_name>
         <sys_package display_value="Fleet Vehicle Management" source="x_snc_flt_mgmt">89b467169738d150c6fc7e0e6253af10</sys_package>
         <sys_policy/>
         <sys_scope display_value="Fleet Vehicle Management">89b467169738d150c6fc7e0e6253af10</sys_scope>
-        <sys_update_name>sys_dictionary_interaction_m2m_skill_null</sys_update_name>
+        <sys_update_name>sys_dictionary_interaction_m2m_skill_NULL</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
         <sys_updated_on>2023-04-27 11:14:51</sys_updated_on>
         <table_reference>false</table_reference>

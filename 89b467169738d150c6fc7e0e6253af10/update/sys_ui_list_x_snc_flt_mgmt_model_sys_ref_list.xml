@@ -3,7 +3,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>model_name</element>
-            <list_id display_value="x_snc_flt_mgmt_model" element="NULL" name="x_snc_flt_mgmt_model" parent="NULL" relationship="NULL" sys_domain="global" view="70f0f153c91221107f4474e3305c6970">b572a98930d221107f4474f3874ecb84</list_id>
+            <list_id display_value="x_snc_flt_mgmt_model" element="NULL" name="x_snc_flt_mgmt_model" parent="NULL" relationship="NULL" sys_domain="global" view="118601701c120010785061945362ad8a">b572a98930d221107f4474f3874ecb84</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -40,7 +40,7 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2023-04-17 18:10:47</sys_updated_on>
             <sys_user/>
-            <view display_value="Reference List" name="sys_ref_list">70f0f153c91221107f4474e3305c6970</view>
+            <view display_value="Reference List" name="sys_ref_list">118601701c120010785061945362ad8a</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>

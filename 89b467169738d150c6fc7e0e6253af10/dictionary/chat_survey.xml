@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element attributes="update_synch=true" db_object_id="8092f2e287a4e590d6a7ca26cebb35b0" extends="sys_metadata" label="Chat Survey" max_length="40" name="chat_survey" type="collection">
+    <element attributes="update_synch=true" db_object_id="c16702a02f613010788b4f2e2c99b614" extends="sys_metadata" label="Chat Survey" max_length="40" name="chat_survey" type="collection">
         <element attributes="edge_encryption_enabled=true" default="true" hint="Determines whether the Connect Survey is active" label="Active" max_length="40" name="active" type="boolean"/>
         <element attributes="edge_encryption_enabled=true,encode_utf8=false" hint="Field that stores associated Chat Queue" label="Chat queue" max_length="32" name="chat_queue" reference="chat_queue" type="reference"/>
         <element attributes="edge_encryption_enabled=true" display="true" hint="A description of the condition" label="Description" max_length="160" name="description" type="string"/>
